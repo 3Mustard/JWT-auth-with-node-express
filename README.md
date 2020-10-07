@@ -1,6 +1,6 @@
 # JWT-auth-with-node-express
 
-To set up please add this file config/default.json
+To set up please add this file 'config/default.json' with the following code.
 
 {
  
