@@ -1,4 +1,4 @@
-# JWT-auth-with-node-express
+# JWT-auth-with-node-express-MongoDB
 
 To set up please add this file 'config/default.json' with the following code.
 
