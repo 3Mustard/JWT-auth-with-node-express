@@ -9,3 +9,8 @@ To set up please add this file 'config/default.json' with the following code.
   "jwtSecret": "<can be anything>"
 
 }
+
+
+# Coming soon
+-logout route
+-delete user route
