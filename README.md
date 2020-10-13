@@ -12,6 +12,4 @@ To set up please add this file 'config/default.json' with the following code.
 
 
 # Coming soon
--logout route
-
 -delete user route
